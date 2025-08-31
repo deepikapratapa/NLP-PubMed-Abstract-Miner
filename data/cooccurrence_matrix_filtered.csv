@@ -1,0 +1,66 @@
+Symptom,Disease,Country,Count
+fever,vomiting,india,5
+dengue,fever,india,5
+fever,headache,india,3
+dengue,vomiting,india,3
+dengue,malaria,india,2
+headache,vomiting,india,2
+fever,infection,india,2
+fever,malaria,india,2
+dengue,zika,india,2
+dengue,vomiting,burkina faso,1
+malaria,vomiting,burkina faso,1
+headache,malaria,burkina faso,1
+fever,malaria,burkina faso,1
+fever,headache,united states,1
+fever,vomiting,burkina faso,1
+dengue,headache,burkina faso,1
+dengue,fever,burkina faso,1
+dengue,malaria,burkina faso,1
+fever,pain,oman,1
+fever,jaundice,india,1
+fever,headache,burkina faso,1
+dengue,headache,india,1
+headache,vomiting,burkina faso,1
+infection,shortness of breath,tunisia,1
+headache,malaria,india,1
+malaria,vomiting,india,1
+malaria,pain,india,1
+fever,pain,mali,1
+dengue,zika,sri lanka,1
+dengue,zika,maldives,1
+dengue,zika,malaysia,1
+dengue,zika,singapore,1
+dengue,fever,mali,1
+fatigue,fever,india,1
+dengue,zika,congo,1
+fever,jaundice,bangladesh,1
+dengue,fever,japan,1
+infection,shortness of breath,pakistan,1
+infection,shortness of breath,mali,1
+infection,jaundice,mali,1
+fever,infection,mali,1
+fever,rash,oman,1
+fever,tuberculosis,india,1
+dengue,hepatitis,india,1
+fever,hepatitis,india,1
+covid-19,hepatitis,india,1
+hepatitis,vomiting,india,1
+covid-19,dengue,india,1
+covid-19,fever,india,1
+covid-19,vomiting,india,1
+nausea,vomiting,mali,1
+fever,vomiting,mali,1
+fever,nausea,mali,1
+fever,infection,brazil,1
+dengue,fever,brazil,1
+dengue,infection,brazil,1
+fever,infection,greece,1
+dengue,fever,greece,1
+dengue,infection,greece,1
+dengue,infection,india,1
+fever,malaria,japan,1
+dengue,malaria,japan,1
+fever,jaundice,mali,1
+infection,shortness of breath,india,1
+dengue,zika,japan,1

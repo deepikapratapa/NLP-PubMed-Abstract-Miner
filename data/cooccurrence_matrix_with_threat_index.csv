@@ -1,0 +1,66 @@
+Symptom,Disease,Country,Count,ThreatIndex
+fever,vomiting,india,5,1.0
+dengue,fever,india,5,1.0
+fever,headache,india,3,0.6
+dengue,vomiting,india,3,0.6
+dengue,malaria,india,2,0.4
+headache,vomiting,india,2,0.4
+fever,infection,india,2,0.4
+fever,malaria,india,2,0.4
+dengue,zika,india,2,0.4
+dengue,vomiting,burkina faso,1,0.2
+malaria,vomiting,burkina faso,1,0.2
+headache,malaria,burkina faso,1,0.2
+fever,malaria,burkina faso,1,0.2
+fever,headache,united states,1,0.2
+fever,vomiting,burkina faso,1,0.2
+dengue,headache,burkina faso,1,0.2
+dengue,fever,burkina faso,1,0.2
+dengue,malaria,burkina faso,1,0.2
+fever,pain,oman,1,0.2
+fever,jaundice,india,1,0.2
+fever,headache,burkina faso,1,0.2
+dengue,headache,india,1,0.2
+headache,vomiting,burkina faso,1,0.2
+infection,shortness of breath,tunisia,1,0.2
+headache,malaria,india,1,0.2
+malaria,vomiting,india,1,0.2
+malaria,pain,india,1,0.2
+fever,pain,mali,1,0.2
+dengue,zika,sri lanka,1,0.2
+dengue,zika,maldives,1,0.2
+dengue,zika,malaysia,1,0.2
+dengue,zika,singapore,1,0.2
+dengue,fever,mali,1,0.2
+fatigue,fever,india,1,0.2
+dengue,zika,congo,1,0.2
+fever,jaundice,bangladesh,1,0.2
+dengue,fever,japan,1,0.2
+infection,shortness of breath,pakistan,1,0.2
+infection,shortness of breath,mali,1,0.2
+infection,jaundice,mali,1,0.2
+fever,infection,mali,1,0.2
+fever,rash,oman,1,0.2
+fever,tuberculosis,india,1,0.2
+dengue,hepatitis,india,1,0.2
+fever,hepatitis,india,1,0.2
+covid-19,hepatitis,india,1,0.2
+hepatitis,vomiting,india,1,0.2
+covid-19,dengue,india,1,0.2
+covid-19,fever,india,1,0.2
+covid-19,vomiting,india,1,0.2
+nausea,vomiting,mali,1,0.2
+fever,vomiting,mali,1,0.2
+fever,nausea,mali,1,0.2
+fever,infection,brazil,1,0.2
+dengue,fever,brazil,1,0.2
+dengue,infection,brazil,1,0.2
+fever,infection,greece,1,0.2
+dengue,fever,greece,1,0.2
+dengue,infection,greece,1,0.2
+dengue,infection,india,1,0.2
+fever,malaria,japan,1,0.2
+dengue,malaria,japan,1,0.2
+fever,jaundice,mali,1,0.2
+infection,shortness of breath,india,1,0.2
+dengue,zika,japan,1,0.2
