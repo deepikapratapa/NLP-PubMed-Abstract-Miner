@@ -25,6 +25,9 @@ This project mines PubMed abstracts to identify **co-occurring clinical symptoms
 - 🧠 *(Coming Soon)* ClinicalBERT and Transformer Model Analysis  
 
 ---
+## 🔍 Preview of Streamlit Dashboard
+
+![Dashboard Preview](output/dashboard_preview.png)
 
 ## 📸 Sample Visuals
 
