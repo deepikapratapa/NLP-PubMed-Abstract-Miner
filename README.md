@@ -34,9 +34,6 @@ This project mines PubMed abstracts to identify **co-occurring clinical symptoms
 ### 🌍 Symptom-Country Heatmap
 <img src="output/heatmap_symptom_country.png" width="600"/>
 
-### ⏳ Time Trend Plot
-<img src="output/time_plot_example.png" width="600"/>
-
 ---
 
 ## 📁 Project Structure
